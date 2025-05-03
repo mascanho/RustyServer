@@ -1,0 +1,9 @@
+[secrets]
+SUPABASE_URL = "https://your-project-ref.supabase.co"
+SUPABASE_KEY = "your-anon-key"
+
+# Declare ignored files that should be included in the upload:
+[deploy]
+include = [
+  ".env", # include file.txt
+]
