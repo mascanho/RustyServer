@@ -2146,8 +2146,11 @@ name = "rustyserver"
 version = "0.1.0"
 dependencies = [
  "actix-web",
+ "chrono",
  "dotenv",
  "futures",
+ "lazy_static",
+ "rand 0.9.1",
  "reqwest",
  "serde",
  "serde_json",

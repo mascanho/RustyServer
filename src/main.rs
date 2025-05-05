@@ -2,6 +2,7 @@ use actix_web::{web, web::ServiceConfig};
 use shuttle_actix_web::ShuttleActixWeb;
 use shuttle_runtime::SecretStore;
 
+mod quotes;
 mod routes;
 
 #[shuttle_runtime::main]
@@ -18,6 +19,8 @@ async fn main(
         }));
         cfg.service(routes::index::redirect);
         cfg.service(routes::user::create_user);
+        cfg.service(routes::quote::gen_quote);
+        cfg.service(routes::quote::add_quote);
     };
 
     Ok(config.into())

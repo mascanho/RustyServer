@@ -1,0 +1,234 @@
+[
+  {
+    "category": "FACT",
+    "text": "Google holds over 90% of the search engine market share."
+  },
+  {
+    "category": "FACT",
+    "text": "Organic search is a primary driver of website traffic."
+  },
+  {
+    "category": "MYTH",
+    "text": "Once you reach the top spot, you don't need to keep working on SEO."
+  },
+  {
+    "category": "FACT",
+    "text": "Most users don't click beyond the first page of search results."
+  },
+  {
+    "category": "FACT",
+    "text": "Relevant keywords are still crucial for SEO."
+  },
+  {
+    "category": "FACT",
+    "text": "High-quality content is a top ranking factor."
+  },
+  {
+    "category": "FACT",
+    "text": "Mobile-friendliness is essential for good SEO."
+  },
+  {
+    "category": "FACT",
+    "text": "Page loading speed impacts search engine rankings."
+  },
+  {
+    "category": "FACT",
+    "text": "Backlinks from reputable sites boost authority."
+  },
+  {
+    "category": "FACT",
+    "text": "Positive user experience (UX) influences rankings."
+  },
+  {
+    "category": "FACT",
+    "text": "SEO requires ongoing effort and adaptation."
+  },
+  {
+    "category": "FACT",
+    "text": "Voice search optimization is becoming increasingly important."
+  },
+  {
+    "category": "FACT",
+    "text": "Local SEO helps businesses rank for nearby searches."
+  },
+  {
+    "category": "FACT",
+    "text": "Image optimization can improve search visibility."
+  },
+  {
+    "category": "FACT",
+    "text": "Video content can significantly enhance SEO efforts."
+  },
+  {
+    "category": "FACT",
+    "text": "Schema markup helps search engines understand content better."
+  },
+  {
+    "category": "FACT",
+    "text": "Analyzing data is crucial for effective SEO strategies."
+  },
+  {
+    "category": "FACT",
+    "text": "Competitor analysis can reveal valuable SEO insights."
+  },
+  {
+    "category": "FACT",
+    "text": "Regular SEO audits help identify areas for improvement."
+  },
+  {
+    "category": "FACT",
+    "text": "Patience is key, SEO results often take time to materialize."
+  },
+  {
+    "category": "MYTH",
+    "text": "Keyword stuffing still works to improve rankings."
+  },
+  {
+    "category": "MYTH",
+    "text": "More backlinks always equal higher rankings."
+  },
+  {
+    "category": "MYTH",
+    "text": "Social media likes and shares directly impact SEO rankings."
+  },
+  {
+    "category": "MYTH",
+    "text": "Duplicate content is always penalized."
+  },
+  {
+    "category": "MYTH",
+    "text": "Having a secure (HTTPS) website is not a ranking factor."
+  },
+  {
+    "category": "MYTH",
+    "text": "The quantity of content is more important than the quality."
+  },
+  {
+    "category": "MYTH",
+    "text": "You need to submit your website to search engines to get indexed."
+  },
+  {
+    "category": "MYTH",
+    "text": "Using the exact match keyword in the domain name is a significant ranking factor."
+  },
+  {
+    "category": "MYTH",
+    "text": "Guest blogging on any website will improve your SEO."
+  },
+  {
+    "category": "MYTH",
+    "text": "Negative SEO can easily destroy a competitor's rankings."
+  },
+  {
+    "category": "FACT",
+    "text": "Content freshness is a ranking factor for time-sensitive queries."
+  },
+  {
+    "category": "FACT",
+    "text": "Internal linking helps distribute link equity and improves navigation."
+  },
+  {
+    "category": "FACT",
+    "text": "A high bounce rate can negatively impact rankings."
+  },
+  {
+    "category": "FACT",
+    "text": "Time on page is a user engagement metric that search engines may consider."
+  },
+  {
+    "category": "FACT",
+    "text": "Core Web Vitals are important for user experience and SEO."
+  },
+  {
+    "category": "FACT",
+    "text": "HTTPS is a ranking signal."
+  },
+  {
+    "category": "FACT",
+    "text": "Optimizing for featured snippets can drive significant traffic."
+  },
+  {
+    "category": "FACT",
+    "text": "Structured data can enhance your search results."
+  },
+  {
+    "category": "FACT",
+    "text": "E-A-T (Expertise, Authoritativeness, Trustworthiness) is crucial for certain types of content."
+  },
+  {
+    "category": "FACT",
+    "text": "Ignoring SEO can lead to significantly lower organic visibility."
+  },
+  {
+    "category": "MYTH",
+    "text": "Buying backlinks is a sustainable way to improve rankings."
+  },
+  {
+    "category": "MYTH",
+    "text": "More pages always equal better SEO."
+  },
+  {
+    "category": "MYTH",
+    "text": "Domain authority is a direct Google ranking factor."
+  },
+  {
+    "category": "MYTH",
+    "text": "You need to have a blog to rank well."
+  },
+  {
+    "category": "MYTH",
+    "text": "Exact match domains provide a significant ranking advantage."
+  },
+  {
+    "category": "MYTH",
+    "text": "SEO is a one-time task."
+  },
+  {
+    "category": "MYTH",
+    "text": "Private blog networks (PBNs) are a safe way to build backlinks."
+  },
+  {
+    "category": "MYTH",
+    "text": "The number of indexed pages directly correlates with ranking."
+  },
+  {
+    "category": "MYTH",
+    "text": "Longer content always ranks better."
+  },
+  {
+    "category": "MYTH",
+    "text": "Social sharing buttons directly improve SEO."
+  },
+  {
+    "category": "FACT",
+    "text": "Search intent is a critical factor in keyword targeting."
+  },
+  {
+    "category": "FACT",
+    "text": "Crawlability and indexability are fundamental for SEO."
+  },
+  {
+    "category": "FACT",
+    "text": "Technical SEO ensures search engines can access and understand your content."
+  },
+  {
+    "category": "FACT",
+    "text": "Mobile-first indexing means Google primarily uses the mobile version of your site for indexing."
+  },
+  {
+    "category": "FACT",
+    "text": "User reviews can impact local SEO rankings."
+  },
+  {
+    "category": "MYTH",
+    "text": "Using a lot of H1 tags will improve your rankings."
+  },
+  {
+    "category": "MYTH",
+    "text": "The more keywords you target on a single page, the better."
+  },
+  {
+    "category": "MYTH",
+    "text": "JavaScript heavy websites are inherently bad for SEO."
+  }
+]
