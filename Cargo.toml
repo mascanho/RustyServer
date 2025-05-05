@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+actix-governor = "0.8.0"
 actix-web = "4.10.2"
 rand = "0.9.1"
 shuttle-runtime = "0.53.0"
@@ -15,6 +16,8 @@ futures = "0.3.31"
 reqwest = { version = "0.12", features = ["json"] }
 dotenv = "0.15"
 uuid = { version = "1.2", features = ["serde", "v4"] }
+actix-cors = "0.7"
+time = "0.3.29"
 
 # For direct Postgres connection:
 sqlx = { version = "0.7", features = ["postgres", "runtime-tokio-native-tls"] }

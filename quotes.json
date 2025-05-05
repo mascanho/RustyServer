@@ -230,5 +230,25 @@
   {
     "category": "MYTH",
     "text": "JavaScript heavy websites are inherently bad for SEO."
+  },
+  {
+    "category": "MYTH",
+    "text": "SEO is dead."
+  },
+  {
+    "category": "MYTH",
+    "text": "ChatGPT is killing Google."
+  },
+  {
+    "category": "FACT",
+    "text": "Brand building is crucial for long-term success."
+  },
+  {
+    "category": "MYTH",
+    "text": "Domain authority is a direct Google ranking factor."
+  },
+  {
+    "category": "MYTH",
+    "text": "Backlinks do not matter any more."
   }
 ]
