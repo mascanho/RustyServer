@@ -16,9 +16,15 @@ lazy_static! {
 
 fn load_quotes() -> Vec<Quote> {
     println!("Current working directory: {:?}", env::current_dir());
+    let path = if cfg!(debug_assertions) {
+        "src/quotes/quotes.json" // Local path
+    } else {
+        "/app/src/quotes/quotes.json" // Deployed path
+    };
+    println!("Attempting to read file at: {}", path);
     let file_content =
-        fs::read_to_string("quotes.json").expect("Could not read quotes/quotes.json");
-    serde_json::from_str(&file_content).expect("Could not parse quotes/quotes.json")
+        fs::read_to_string(path).unwrap_or_else(|e| panic!("Could not read {}: {}", path, e));
+    serde_json::from_str(&file_content).expect("Could not parse quotes.json")
 }
 
 pub async fn get_random_quote() -> Quote {
