@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+actix_web_actors = "4.2.0"
 actix-governor = "0.8.0"
 actix-web = "4.10.2"
 rand = "0.9.1"

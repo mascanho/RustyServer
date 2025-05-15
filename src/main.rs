@@ -4,6 +4,7 @@ use actix_web::{web, web::ServiceConfig};
 use shuttle_actix_web::ShuttleActixWeb;
 use shuttle_runtime::SecretStore;
 
+mod chat;
 mod quotes;
 mod routes;
 
